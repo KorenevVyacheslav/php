@@ -2,3 +2,63 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+body {
+    background-color: #636b6f;
+}
+
+p {
+    font-size: 30px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    
+    font-size: 25px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn-link {
+    color:rgb(68, 12, 114);
+    font-size: 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card-header, .card-footer {
+    background-color: #959ea3;
+    padding: 5px;
+    border: 2px solid #000000;
+    
+}
+
+.card-body {
+    background-color: #dccedd;
+}
+
+.btn-info {
+   
+    border: 3px solid #0d1a8b;
+    border-radius: 20px;
+
+}
+
+.btn-success {
+   
+    border-top: 3px solid #0d1a8b;
+    border-bottom: 3px solid #0d1a8b;
+}
+
+button, input {
+    background-color: #dccedd;
+    font-size: 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#text {
+    font-size: 20px; 
+}
+
+#hide.collapse.show {
+    background-color: #a674aa;
+}
+

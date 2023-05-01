@@ -1,3 +1,9 @@
+body {
+    background-color: #636b6f;
+    z-index: -1;
+}
+
+
 .calc-row {
     height: 100vh;
     font-family: 'Share Tech Mono', monospace;
